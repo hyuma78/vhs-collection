@@ -1,17 +1,17 @@
 [
     {
         "titolo": "Predator",
-        "anno": 1985,
+        "anno": 1987,
         "front": "covers/predator.front.jpg",
         "back": "covers/predator.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/uhCp7eKGDTzMT5t3ibybcgeOCG9.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/quBFT8L0Soxd4Ls6Ok9DtZniIj7.jpg"
     },
     {
         "titolo": "Predator 2",
-        "anno": 1984,
+        "anno": 1990,
         "front": "covers/predator.2.front.jpg",
         "back": "covers/predator.2.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/bS88Q4QL5B8RAcWr8BvmFGKTK8J.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/n3fJx7IFmUtj1KidsCi37Y062Do.jpg"
     },
     {
         "titolo": "1997 Fuga da New York",
@@ -25,7 +25,7 @@
         "anno": 1986,
         "front": "covers/brivido.front.jpg",
         "back": "covers/brivido.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/jKAO7rBrCzGJ3ea96TXGmKFdWiD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/hOJj40Ywto44xbspiSMPbGTQcLT.jpg"
     },
     {
         "titolo": "Gli occhi del parco",
