@@ -127,5 +127,159 @@
         "front": "covers/tromeo.and.juliet.front.jpg",
         "back": "covers/tromeo.and.juliet.back.jpg",
         "poster": "https://image.tmdb.org/t/p/w500/gBUQFzTjaYvnPRzXVsW6Y5mlTWd.jpg"
+    },
+    {
+        "titolo": "Cliffhanger - L'ultima sfida",
+        "anno": 1993,
+        "front": "covers/cliffhanger.front.jpg",
+        "back": "covers/cliffhanger.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/1EOWtxTmX3QY3OFn0YGKJORXmPu.jpg"
+    },
+    {
+        "titolo": "Corto circuito",
+        "anno": 1986,
+        "front": "covers/corto.circuito.front.jpg",
+        "back": "covers/corto.circuito.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/5bWJvkkIjTb9dYOak1LUwlm0aaY.jpg"
+    },
+    {
+        "titolo": "Creepshow",
+        "anno": 1982,
+        "front": "covers/creepshow.front.jpg",
+        "back": "covers/creepshow.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/tueTGyokGGG6FawuMuEo3ef6JR7.jpg"
+    },
+    {
+        "titolo": "Demolition Man",
+        "anno": 1993,
+        "front": "covers/demolition.man.front.jpg",
+        "back": "covers/demolition.man.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/940kCZVkNlSDUzBCcJQq0EKgqbe.jpg"
+    },
+    {
+        "titolo": "Dick Tracy",
+        "anno": 1990,
+        "front": "covers/dick.tracy.front.jpg",
+        "back": "covers/dick.tracy.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/37p00b0lgRijRkkSOjdd0XSkUt4.jpg"
+    },
+    {
+        "titolo": "L'esorcista",
+        "anno": 1973,
+        "front": "covers/esorcista.front.jpg",
+        "back": "covers/esorcista.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/4k1HiCOyn5RwH1I5zHo7QMeuZSR.jpg"
+    },
+    {
+        "titolo": "Flipper",
+        "anno": 1996,
+        "front": "covers/flipper.front.jpg",
+        "back": "covers/flipper.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/kbsePEyGVpbf3R3vn7yLVnB2lTO.jpg"
+    },
+    {
+        "titolo": "La casa di Cristina",
+        "anno": 2000,
+        "front": "covers/la.casa.di.cristina.front.jpg",
+        "back": "covers/la.casa.di.cristina.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/o3MdOpOeZvExWQFxoU0JLWVf9tY.jpg"
+    },
+    {
+        "titolo": "Mamma, ho perso l'aereo",
+        "anno": 1990,
+        "front": "covers/mamma.ho.perso.aereo.front.jpg",
+        "back": "covers/mamma.ho.perso.aereo.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/6XG37rotwNtaQ5sKBRFZILqIri0.jpg"
+    },
+    {
+        "titolo": "Non aprite quella porta IV",
+        "anno": 1995,
+        "front": "covers/non.aprite.quella.porta.4.front.jpg",
+        "back": "covers/non.aprite.quella.porta.4.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/qtFyWuEQDBvg6hHMqgeJb0A6bnz.jpg"
+    },
+    {
+        "titolo": "Over the Top",
+        "anno": 1987,
+        "front": "covers/over.the.top.front.jpg",
+        "back": "covers/over.the.top.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/5JgpKhwrdfoBDjb1zi9F7aDNL0P.jpg"
+    },
+    {
+        "titolo": "Pagemaster - L'avventura meravigliosa",
+        "anno": 1994,
+        "front": "covers/pagemasters.front.jpg",
+        "back": "covers/pagemasters.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/tmwgSrvSRvVyILv5O6iUmXp81pv.jpg"
+    },
+    {
+        "titolo": "Phenomena",
+        "anno": 1985,
+        "front": "covers/phenomena.front.jpg",
+        "back": "covers/phenomena.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/p46q5T4fhuBNPFQFAfwG2niEoW6.jpg"
+    },
+    {
+        "titolo": "Poliziotto superpiù",
+        "anno": 1980,
+        "front": "covers/poliziotto.superpiu.front.jpg",
+        "back": "covers/poliziotto.superpiu.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/fe27W5Io1BQzjEQ7EZImJRjOzdG.jpg"
+    },
+    {
+        "titolo": "Sorvegliato speciale",
+        "anno": 1989,
+        "front": "covers/sorvegliato.speciale.front.jpg",
+        "back": "covers/sorvegliato.speciale.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/eWNModkddyX33ZyX1E0bhgzyaMo.jpg"
+    },
+    {
+        "titolo": "Tartarughe Ninja alla riscossa",
+        "anno": 1990,
+        "front": "covers/tartarughe.ninja.alla.riscossa.front.jpg",
+        "back": "covers/tartarughe.ninja.alla.riscossa.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/7fA1Ya9gRmF8rTqCOvyyXznhEkM.jpg"
+    },
+    {
+        "titolo": "Tesoro, mi si sono ristretti i ragazzi",
+        "anno": 1989,
+        "front": "covers/tesoro.mi.si.sono.ristretti.i.ragazzi.front.jpg",
+        "back": "covers/tesoro.mi.si.sono.ristretti.i.ragazzi.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/oJXcWzO5R9EZvJ86P0y0hOegBnb.jpg"
+    },
+    {
+        "titolo": "Tremors",
+        "anno": 1990,
+        "front": "covers/tremors.front.jpg",
+        "back": "covers/tremors.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/7nUKLTDqMfuaAlzHJFFaufElyCh.jpg"
+    },
+    {
+        "titolo": "Un minuto a mezzanotte",
+        "anno": 1990,
+        "front": "covers/un.minuto.a.mezzanotte.front.jpg",
+        "back": "covers/un.minuto.a.mezzanotte.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/qhd8xJLtc2bcjj36dRObqQOyld9.jpg"
+    },
+    {
+        "titolo": "Week-end di terrore",
+        "anno": 1982,
+        "front": "covers/venerdi.13.parte.3.front.jpg",
+        "back": "covers/venerdi.13.parte.3.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/8a8YLCBNc6Va2r9wD3HzfbmcDpk.jpg"
+    },
+    {
+        "titolo": "The Vindicator",
+        "anno": 1986,
+        "front": "vindicator.la.guerra.del.ferro.front.jpg",
+        "back": "vindicator.la.guerra.del.ferro.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/vgdqGHVBYQJX9QDuWjmrwbB54T1.jpg"
+    },
+    {
+        "titolo": "Zombi",
+        "anno": 1978,
+        "front": "covers/zombi.front.jpg",
+        "back": "covers/zombi.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/zxsOdPxsQOKDfD3ONjb04PhVLUu.jpg"
     }
 ]
