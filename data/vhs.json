@@ -36,5 +36,12 @@
         "stato": "Ottima",
         "front": "covers/gremlins.front.jpg",
         "back": "covers/gremlins.back.jpg"
+    },
+    {
+        "titolo": "The Langoliers",
+        "anno": 1995,
+        "stato": "Ottima",
+        "front": "covers/i.langolieri.front.jpg",
+        "back": "covers/i.langolieri.back.jpg"
     }
 ]
