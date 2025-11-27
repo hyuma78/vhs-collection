@@ -3,15 +3,15 @@
         "titolo": "Predator",
         "anno": 1985,
         "stato": "Ottima",
-        "front": "covers/Predator.front.jpg",
-        "back": "covers/Predator.back.jpg"
+        "front": "covers/predator.front.jpg",
+        "back": "covers/predator.back.jpg"
     },
     {
         "titolo": "Predator 2",
         "anno": 1984,
         "stato": "Ottima",
-        "front": "covers/Predator.2.front.jpg",
-        "back": "covers/Predator.2.back.jpg"
+        "front": "covers/predator.2.front.jpg",
+        "back": "covers/predator.2.back.jpg"
     },
     {
         "titolo": "1997 Fuga da New York",
@@ -24,7 +24,7 @@
         "titolo": "Brivido",
         "anno": 1986,
         "stato": "Buona",
-        "front": "covers/Brivido.front.jpg",
-        "back": "covers/Brivido.back.jpg"
+        "front": "covers/brivido.front.jpg",
+        "back": "covers/brivido.back.jpg"
     }
 ]
