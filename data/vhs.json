@@ -43,5 +43,17 @@
         "stato": "Ottima",
         "front": "covers/i.langolieri.front.jpg",
         "back": "covers/i.langolieri.back.jpg"
+    },
+    {
+        "titolo": "E.T. l'extra-terrestre",
+        "anno": 1982,
+        "front": "covers/ET.front.jpg",
+        "back": "covers/ET.back.jpg"
+    },
+    {
+        "titolo": "Il signore del male",
+        "anno": 1987,
+        "front": "covers/il.signore.del.male.front.jpg",
+        "back": "covers/il.signore.del.male.back.jpg"
     }
 ]
