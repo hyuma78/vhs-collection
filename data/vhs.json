@@ -3,111 +3,129 @@
         "titolo": "Predator",
         "anno": 1985,
         "front": "covers/predator.front.jpg",
-        "back": "covers/predator.back.jpg"
+        "back": "covers/predator.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/uhCp7eKGDTzMT5t3ibybcgeOCG9.jpg"
     },
     {
         "titolo": "Predator 2",
         "anno": 1984,
         "front": "covers/predator.2.front.jpg",
-        "back": "covers/predator.2.back.jpg"
+        "back": "covers/predator.2.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/bS88Q4QL5B8RAcWr8BvmFGKTK8J.jpg"
     },
     {
         "titolo": "1997 Fuga da New York",
         "anno": 1981,
         "front": "covers/1997.fuga.da.new.york.front.jpg",
-        "back": "covers/1997.fuga.da.new.york.back.jpg"
+        "back": "covers/1997.fuga.da.new.york.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/kibXnUoT4lc3Tt7jX2pdliOSv49.jpg"
     },
     {
         "titolo": "Brivido",
         "anno": 1986,
         "front": "covers/brivido.front.jpg",
-        "back": "covers/brivido.back.jpg"
+        "back": "covers/brivido.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/jKAO7rBrCzGJ3ea96TXGmKFdWiD.jpg"
     },
     {
         "titolo": "Gli occhi del parco",
         "anno": 1980,
         "stato": "Ottima",
         "front": "covers/gli.occhi.del.parco.front.jpg",
-        "back": "covers/gli.occhi.del.parco.back.jpg"
+        "back": "covers/gli.occhi.del.parco.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/vS8G2YrSMbIU3jHphMWnk9Mb59I.jpg"
     },
     {
         "titolo": "Gremlins",
         "anno": 1984,
         "stato": "Ottima",
         "front": "covers/gremlins.front.jpg",
-        "back": "covers/gremlins.back.jpg"
+        "back": "covers/gremlins.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/a1ARa6Sq5Bs8l0iHWBFvH0k5gO2.jpg"
     },
     {
         "titolo": "The Langoliers",
         "anno": 1995,
         "stato": "Ottima",
         "front": "covers/i.langolieri.front.jpg",
-        "back": "covers/i.langolieri.back.jpg"
+        "back": "covers/i.langolieri.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/b7fPZNS3cSC2D4XMiRJCVMrrrZh.jpg"
     },
     {
         "titolo": "E.T. l'extra-terrestre",
         "anno": 1982,
         "front": "covers/ET.front.jpg",
-        "back": "covers/ET.back.jpg"
+        "back": "covers/ET.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/3DIwTC2A58WDtsgjaXjo2FYA1pW.jpg"
     },
     {
         "titolo": "Il signore del male",
         "anno": 1987,
         "front": "covers/il.signore.del.male.front.jpg",
-        "back": "covers/il.signore.del.male.back.jpg"
+        "back": "covers/il.signore.del.male.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/mhized1z7HkXVOQZ3WKLhbqfNz2.jpg"
     },
     {
         "titolo": "La bambola assassina",
         "anno": 1988,
         "front": "covers/la.bambola.assassina.front.jpg",
-        "back": "covers/la.bambola.assassina.back.jpg"
+        "back": "covers/la.bambola.assassina.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/nq45RcTx3fTRSbVLMU2BuxQ2i4E.jpg"
     },
     {
         "titolo": "La storia infinita",
         "anno": 1984,
         "front": "covers/la.storia.infinita.front.jpg",
-        "back": "covers/la.storia.infinita.back.jpg"
+        "back": "covers/la.storia.infinita.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/h9bL7mGYpNWC9Pytd16KEtu6bkw.jpg"
     },
     {
         "titolo": "La storia fantastica",
         "anno": 1987,
         "front": "covers/la.storia.fantastica.front.jpg",
-        "back": "covers/la.storia.fantastica.back.jpg"
+        "back": "covers/la.storia.fantastica.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/rWYYDyh2LtCOBrcA3iDuCLUbGK5.jpg"
     },
     {
         "titolo": "Ladyhawke",
         "anno": 1985,
         "front": "covers/ladyhawke.front.jpg",
-        "back": "covers/ladyhawke.back.jpg"
+        "back": "covers/ladyhawke.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/sZ4q9Qksvvryd1xalicV9KhTwnf.jpg"
     },
     {
         "titolo": "Nightmare 4 - Il non risveglio",
         "anno": 1988,
         "front": "covers/nightmare.4.front.jpg",
-        "back": "covers/nightmare.4.back.jpg"
+        "back": "covers/nightmare.4.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/unZ2vCavdzix0FxQ8lrBaHGfUal.jpg"
     },
     {
         "titolo": "Nightmare 6 - La fine",
         "anno": 1991,
         "front": "covers/nightmare.6.front.jpg",
-        "back": "covers/nightmare.6.back.jpg"
+        "back": "covers/nightmare.6.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/p0UgMqiCM9owrDmZRdpA2H6S8wW.jpg"
     },
     {
         "titolo": "Starship Troopers - Fanteria dello spazio",
         "anno": 1997,
         "front": "covers/starship.troopers.front.jpg",
-        "back": "covers/starship.troopers.back.jpg"
+        "back": "covers/starship.troopers.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/hf8fwP1ttYTFpP8xHr310j1yxsK.jpg"
     },
     {
         "titolo": "Terminator 3 - Le macchine ribelli",
         "anno": 2003,
         "front": "covers/terminator.3.front.jpg",
-        "back": "covers/terminator.3.back.jpg"
+        "back": "covers/terminator.3.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/hLl1Kz6kWOnOID3r1m4qfF99A4k.jpg"
     },
     {
         "titolo": "Tromeo & Juliet",
         "anno": 1996,
         "front": "covers/tromeo.and.juliet.front.jpg",
-        "back": "covers/tromeo.and.juliet.back.jpg"
+        "back": "covers/tromeo.and.juliet.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/gBUQFzTjaYvnPRzXVsW6Y5mlTWd.jpg"
     }
 ]
