@@ -281,5 +281,12 @@
         "front": "covers/zombi.front.jpg",
         "back": "covers/zombi.back.jpg",
         "poster": "https://image.tmdb.org/t/p/w500/zxsOdPxsQOKDfD3ONjb04PhVLUu.jpg"
+    },
+    {
+        "titolo": "Corto circuito 2",
+        "anno": 1988,
+        "front": "covers/corto.circuito.2.front.jpg",
+        "back": "covers/corto.circuito.2.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/eL24VPx4c2yoIITbHDXZtZxNP43.jpg"
     }
 ]
