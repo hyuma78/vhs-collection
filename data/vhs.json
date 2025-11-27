@@ -269,13 +269,6 @@
         "poster": "https://image.tmdb.org/t/p/w500/8a8YLCBNc6Va2r9wD3HzfbmcDpk.jpg"
     },
     {
-        "titolo": "The Vindicator",
-        "anno": 1986,
-        "front": "vindicator.la.guerra.del.ferro.front.jpg",
-        "back": "vindicator.la.guerra.del.ferro.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/vgdqGHVBYQJX9QDuWjmrwbB54T1.jpg"
-    },
-    {
         "titolo": "Zombi",
         "anno": 1978,
         "front": "covers/zombi.front.jpg",
@@ -288,5 +281,12 @@
         "front": "covers/corto.circuito.2.front.jpg",
         "back": "covers/corto.circuito.2.back.jpg",
         "poster": "https://image.tmdb.org/t/p/w500/eL24VPx4c2yoIITbHDXZtZxNP43.jpg"
+    },
+    {
+        "titolo": "La guerra del ferro - Ironmaster",
+        "anno": 1983,
+        "front": "covers/vindicator.la.guerra.del.ferro.front.jpg",
+        "back": "covers/vindicator.la.guerra.del.ferro.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/tPvHrqLxI8aUhmhOOqMq1fuRIPz.jpg"
     }
 ]
