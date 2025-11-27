@@ -198,3 +198,8 @@ header {
     font-size: 15px;
     line-height: 1.4;
 }
+
+#infoBox {
+    position: fixed;
+    z-index: 999999 !important;
+}
