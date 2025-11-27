@@ -55,5 +55,59 @@
         "anno": 1987,
         "front": "covers/il.signore.del.male.front.jpg",
         "back": "covers/il.signore.del.male.back.jpg"
+    },
+    {
+        "titolo": "La bambola assassina",
+        "anno": 1988,
+        "front": "covers/la.bambola.assassina.front.jpg",
+        "back": "covers/la.bambola.assassina.back.jpg"
+    },
+    {
+        "titolo": "La storia infinita",
+        "anno": 1984,
+        "front": "covers/la.storia.infinita.front.jpg",
+        "back": "covers/la.storia.infinita.back.jpg"
+    },
+    {
+        "titolo": "La storia fantastica",
+        "anno": 1987,
+        "front": "covers/la.storia.fantastica.front.jpg",
+        "back": "covers/la.storia.fantastica.back.jpg"
+    },
+    {
+        "titolo": "Ladyhawke",
+        "anno": 1985,
+        "front": "covers/ladyhawke.front.jpg",
+        "back": "covers/ladyhawke.back.jpg"
+    },
+    {
+        "titolo": "Nightmare 4 - Il non risveglio",
+        "anno": 1988,
+        "front": "covers/nightmare.4.front.jpg",
+        "back": "covers/nightmare.4.back.jpg"
+    },
+    {
+        "titolo": "Nightmare 6 - La fine",
+        "anno": 1991,
+        "front": "covers/nightmare.6.front.jpg",
+        "back": "covers/nightmare.6.back.jpg"
+    },
+    {
+        "titolo": "Starship Troopers - Fanteria dello spazio",
+        "anno": 1997,
+        "front": "covers/starship.troopers.front.jpg",
+        "back": "covers/starship.troopers.back.jpg"
+    },
+    {
+        "titolo": "Terminator 3 - Le macchine ribelli",
+        "anno": 2003,
+        "front": "covers/terminator.3.front.jpg",
+        "back": "covers/terminator.3.back.jpg"
+    },
+    {
+        "titolo": "Tromeo & Juliet",
+        "anno": 1996,
+        "front": "covers/tromeo.and.juliet.front.jpg",
+        "back": "covers/tromeo.and.juliet.back.jpg"
     }
 ]
