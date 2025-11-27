@@ -22,5 +22,19 @@
         "anno": 1986,
         "front": "covers/brivido.front.jpg",
         "back": "covers/brivido.back.jpg"
+    },
+    {
+        "titolo": "Gli occhi del parco",
+        "anno": 1980,
+        "stato": "Ottima",
+        "front": "covers/gli.occhi.del.parco.front.jpg",
+        "back": "covers/gli.occhi.del.parco.back.jpg"
+    },
+    {
+        "titolo": "Gremlins",
+        "anno": 1984,
+        "stato": "Ottima",
+        "front": "covers/gremlins.front.jpg",
+        "back": "covers/gremlins.back.jpg"
     }
 ]
