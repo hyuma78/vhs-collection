@@ -1,26 +1,18 @@
 fetch('data/vhs.json')
   .then(res => res.json())
   .then(data => {
-    
-    // Ordina le VHS più recenti in alto (per slider)
-    const recenti = [...data].reverse().slice(0, 10);
-
-    // Sezioni del DOM
-    const slider = document.getElementById("slider");
     const grid = document.getElementById("grid");
 
-    // --- Aggiunti di Recente (slider) ---
-    recenti.forEach(item => {
-      const card = creaCard(item);
-      slider.appendChild(card);
-    });
+    // volendo, puoi ordinare per titolo:
+    // data.sort((a, b) => a.titolo.localeCompare(b.titolo));
 
-    // --- Griglia Completa ---
     data.forEach(item => {
       const card = creaCard(item);
       grid.appendChild(card);
     });
-
+  })
+  .catch(err => {
+    console.error("Errore nel caricamento di vhs.json:", err);
   });
 
 function creaCard(item) {
