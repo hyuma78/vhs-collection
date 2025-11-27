@@ -2,28 +2,24 @@
     {
         "titolo": "Predator",
         "anno": 1985,
-
         "front": "covers/predator.front.jpg",
         "back": "covers/predator.back.jpg"
     },
     {
         "titolo": "Predator 2",
         "anno": 1984,
-
         "front": "covers/predator.2.front.jpg",
         "back": "covers/predator.2.back.jpg"
     },
     {
         "titolo": "1997 Fuga da New York",
         "anno": 1981,
-
         "front": "covers/1997.fuga.da.new.york.front.jpg",
         "back": "covers/1997.fuga.da.new.york.back.jpg"
     },
     {
         "titolo": "Brivido",
         "anno": 1986,
-
         "front": "covers/brivido.front.jpg",
         "back": "covers/brivido.back.jpg"
     }
