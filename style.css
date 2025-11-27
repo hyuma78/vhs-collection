@@ -1,0 +1,86 @@
+body {
+    background: #0a0014;
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 25px;
+    background: linear-gradient(90deg, #5100ff, #ff0084);
+    text-transform: uppercase;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+/* --- Slider --- */
+
+.slider-section {
+    padding: 20px;
+}
+
+.slider {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    padding-bottom: 10px;
+}
+
+.slider::-webkit-scrollbar {
+    height: 8px;
+}
+
+.slider::-webkit-scrollbar-thumb {
+    background: magenta;
+}
+
+/* --- Griglia --- */
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 30px;
+    padding: 20px;
+}
+
+/* --- Card stile VHS che ruota --- */
+
+.card {
+    width: 180px;
+    height: 280px;
+    perspective: 1000px;
+}
+
+.inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform .6s;
+    transform-style: preserve-3d;
+}
+
+.card:hover .inner {
+    transform: rotateY(180deg);
+}
+
+.front, .back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: 2px solid #ff00e0;
+    background: black;
+    backface-visibility: hidden;
+    box-shadow: 0 0 10px #ff00e0aa;
+}
+
+.front img, .back img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.back {
+    transform: rotateY(180deg);
+}
