@@ -4,28 +4,32 @@
         "anno": 1987,
         "front": "covers/predator.front.jpg",
         "back": "covers/predator.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/quBFT8L0Soxd4Ls6Ok9DtZniIj7.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/quBFT8L0Soxd4Ls6Ok9DtZniIj7.jpg",
+        "trama": "Un commando di soldati americani specialisti in guerriglia viene inviato nella giungla del centro america per distruggere un gruppo di guerriglieri. La missione viene rapidamente eseguita, ma sulla via del ritorno il commando diviene il bersaglio di un terrificante essere invisibile, il quale attacca gli uomini, li uccide e li squarta. In breve tempo Dutch, il comandante del gruppo rimane solo a fronteggiare quello che si rivela essere un cacciatore alieno dotato di armi e tecnologia superiori. Il coraggio, l'addestramento e un po' di fortuna consentiranno all'uomo di individuare i punti deboli del mostro."
     },
     {
         "titolo": "Predator 2",
         "anno": 1990,
         "front": "covers/predator.2.front.jpg",
         "back": "covers/predator.2.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/n3fJx7IFmUtj1KidsCi37Y062Do.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/n3fJx7IFmUtj1KidsCi37Y062Do.jpg",
+        "trama": "Sono passati alcuni anni e Predator ritorna. Questa volta la scena non è la giungla ma la Los Angeles del 1997, città che spacciatori di droga e bande di criminali hanno trasformato in un quotidiano campo di battaglia. La polizia sembra impotente, quando improvvisamente la delinquenza comincia ad essere decimata con gli stessi spaventosi metodi che conosciamo. Le autorità sanno questa volta con chi hanno a che fare, e mettono in opera dei sofisticati tentativi per catturare l'extraterrestre ed impadronirsi della sua tecnologia, ma Predator elude ogni trappola e continua le sue terribili stragi. Toccherà al poliziotto Mike Harrison (Glover) affrontare e sconfiggere l'alieno."
     },
     {
         "titolo": "1997 Fuga da New York",
         "anno": 1981,
         "front": "covers/1997.fuga.da.new.york.front.jpg",
         "back": "covers/1997.fuga.da.new.york.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/kibXnUoT4lc3Tt7jX2pdliOSv49.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/kibXnUoT4lc3Tt7jX2pdliOSv49.jpg",
+        "trama": "Stati Uniti, 1997: la delinquenza è fuori controllo, e New York è stata trasformata in un carcere di massima sicurezza dove vengono rinchiusi tutti i reietti della società. Quando un commando terrorista dirotta il jet su cui viaggia il presidente, facendolo precipitare proprio sulla città, le autorità si rivolgono a un ex marine condannato per rapina, una leggenda: Jena Plissken."
     },
     {
         "titolo": "Brivido",
         "anno": 1986,
         "front": "covers/brivido.front.jpg",
         "back": "covers/brivido.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/hOJj40Ywto44xbspiSMPbGTQcLT.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/hOJj40Ywto44xbspiSMPbGTQcLT.jpg",
+        "trama": "A causa del passaggio della Terra nella coda di una cometa, le macchine impazziscono e si rivoltano contro i loro stessi creatori: in una stazione di servizio, un assortito gruppo di persone cerca di salvarsi fronteggiando un ostile drappello di camion assassini..."
     },
     {
         "titolo": "Gli occhi del parco",
@@ -33,7 +37,8 @@
         "stato": "Ottima",
         "front": "covers/gli.occhi.del.parco.front.jpg",
         "back": "covers/gli.occhi.del.parco.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/vS8G2YrSMbIU3jHphMWnk9Mb59I.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/vS8G2YrSMbIU3jHphMWnk9Mb59I.jpg",
+        "trama": "Un compositore americano si stabilisce in una vecchia casa di campagna inglese. Presto, la figlia più giovane è perseguitata da terribili visioni ed esperienze, apparentemente di origine soprannaturale. Produzione Disney che, senza esiti apprezzabili, tenta di amalgamare carinerie e brivido."
     },
     {
         "titolo": "Gremlins",
@@ -41,7 +46,8 @@
         "stato": "Ottima",
         "front": "covers/gremlins.front.jpg",
         "back": "covers/gremlins.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/a1ARa6Sq5Bs8l0iHWBFvH0k5gO2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/a1ARa6Sq5Bs8l0iHWBFvH0k5gO2.jpg",
+        "trama": "Un inventore trova uno strano animaletto in un negozio di cianfrusaglie e decide che sarebbe un perfetto regalo di Natale per il figlio. Viene avvisato della necessità di seguire delle piccole regole: mai bagnarlo e mai dargli da mangiare dopo mezzanotte. Il figlio trasgredisce le regole inavvertitamente, dando vita ad un numero elevatissimo di piccoli mostri che mettono a soqquadro tutta la città."
     },
     {
         "titolo": "The Langoliers",
@@ -56,307 +62,351 @@
         "anno": 1982,
         "front": "covers/ET.front.jpg",
         "back": "covers/ET.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/3DIwTC2A58WDtsgjaXjo2FYA1pW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/3DIwTC2A58WDtsgjaXjo2FYA1pW.jpg",
+        "trama": "Durante un sopralluogo sulla Terra per raccogliere vegetali, un gruppo di alieni viene sorpreso e uno di loro viene lasciato erroneamente al suolo per l'affrettato decollo. L'alieno, solo e smarrito, viene trovato ed ospitato da Elliott, con la complicità della sorellina Gertie e il fratello maggiore Michael. Tra i due si instaura un profondo rapporto di amicizia che li lega anche a livello emotivo. Desideroso di tornare a casa, l'alieno costruisce un rudimentale dispositivo di comunicazione per chiedere aiuto ai suoi. Gradualmente, la salute di ET peggiora, e la situazione è aggravata dall'irruzione nell'universo dei ragazzi da parte del mondo degli adulti, che vuole impossessarsi dell'alieno."
     },
     {
         "titolo": "Il signore del male",
         "anno": 1987,
         "front": "covers/il.signore.del.male.front.jpg",
         "back": "covers/il.signore.del.male.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/mhized1z7HkXVOQZ3WKLhbqfNz2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/mhized1z7HkXVOQZ3WKLhbqfNz2.jpg",
+        "trama": "In una chiesa di Los Angeles, un prete scopre una strana teca contenente un liquido verdastro. Secondo un antico libro, la sostanza rimanderebbe ai poteri del Maligno. Insieme con una equipe di scienziati, il prete inizia a studiare la teca, ma, durante una terrribile notte, tutti quanti vengono investiti dallo spruzzo del liquido e conseguentemente contagiati dal Male, che li porterà a contatto con un incubo, in cui l'Anticristo minaccia l'umanità."
     },
     {
         "titolo": "La bambola assassina",
         "anno": 1988,
         "front": "covers/la.bambola.assassina.front.jpg",
         "back": "covers/la.bambola.assassina.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/nq45RcTx3fTRSbVLMU2BuxQ2i4E.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/nq45RcTx3fTRSbVLMU2BuxQ2i4E.jpg",
+        "trama": "Chicago. Lo spietato pluriomicida Charles Lee Ray, braccato e mortalmente ferito dal poliziotto Mike Norris, si rifugia in un negozio di giocattoli e muore su una pila di popolari bambolotti “Good Guy” pronunciando un rituale magico che gli consente di trasferire la sua anima in uno di essi. Di mattina presto, Andy Barclay si sveglia entusiasta per scoprire i regali per i suoi sei anni ed è deluso di non trovarvi il bambolotto che desiderava, della serie “Good Guy”. La comprensiva mamma Karen riesce a procurarsene uno a buon prezzo e lo porta ad Andy che, entusiasta, lo battezza Chucky..."
     },
     {
         "titolo": "La storia infinita",
         "anno": 1984,
         "front": "covers/la.storia.infinita.front.jpg",
         "back": "covers/la.storia.infinita.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/h9bL7mGYpNWC9Pytd16KEtu6bkw.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/h9bL7mGYpNWC9Pytd16KEtu6bkw.jpg",
+        "trama": "Il piccolo Bastian che ha da poco perso la mamma, si rifugia nella soffitta della scuola a leggere un vecchio libro che si rivela magico; così Bastian “entra” nella storia e combatte contro il Nulla per difendere il mondo di Fantasia con l'aiuto di un drago volante e di un fanciullo guerriero. Suggestiva superproduzione tedesca, girata però in inglese, che all'epoca ottenne un grande successo grazie alla fiabesca vicenda del romanzo di Michael Ende (debitamente semplificata) e alla colonna sonora di Giorgio Moroder. Appassionante e non stucchevole."
     },
     {
         "titolo": "La storia fantastica",
         "anno": 1987,
         "front": "covers/la.storia.fantastica.front.jpg",
         "back": "covers/la.storia.fantastica.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/rWYYDyh2LtCOBrcA3iDuCLUbGK5.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/rWYYDyh2LtCOBrcA3iDuCLUbGK5.jpg",
+        "trama": "Una principessa ama il suo servitore, che però deve partire per terre lontane. Durante la sua assenza, un malvagio nobiluomo s'invaghisce della principessa e la fa rapire da tre figuri. Ma, a salvarla torna, provvidenzialmente, l'innamorato, che, dopo alterne vicende, punisce il malvagio e sposa la bella."
     },
     {
         "titolo": "Ladyhawke",
         "anno": 1985,
         "front": "covers/ladyhawke.front.jpg",
         "back": "covers/ladyhawke.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/sZ4q9Qksvvryd1xalicV9KhTwnf.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/sZ4q9Qksvvryd1xalicV9KhTwnf.jpg",
+        "trama": "In un borgo fortificato del Medio Evo francese, un vescovo dall'animo malvagio e corrotto - invaghitosi di Isabeau, fidanzata del capo delle guardie Etienne Navarre - colpisce la giovane coppia con la sua maledizione. Così da quel momento Etienne è condannato a trasformarsi ogni notte in lupo, mentre di giorno Isabeau si trasformerà in un falco. I due potranno quindi incontrarsi brevemente in forma umana solo all'alba e al tramonto, ma senza toccarsi mai. Per spezzare l'incantesimo servirà un'eclissi di sole."
     },
     {
         "titolo": "Nightmare 4 - Il non risveglio",
         "anno": 1988,
         "front": "covers/nightmare.4.front.jpg",
         "back": "covers/nightmare.4.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/unZ2vCavdzix0FxQ8lrBaHGfUal.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/unZ2vCavdzix0FxQ8lrBaHGfUal.jpg",
+        "trama": "Freddy Krueger infesta di nuovo i sogni degli adolescenti di Elm Street e Kristen, protagonista dell'episodio precedente, trasferisce la sua capacità di portare gli altri nei suoi sogni alla sua amica Alice. Freddy allora si serve di Alice per continuare i suoi omicidi, ed infatti chiunque dorma con la ragazza viene massacrato.."
     },
     {
         "titolo": "Nightmare 6 - La fine",
         "anno": 1991,
         "front": "covers/nightmare.6.front.jpg",
         "back": "covers/nightmare.6.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/p0UgMqiCM9owrDmZRdpA2H6S8wW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/p0UgMqiCM9owrDmZRdpA2H6S8wW.jpg",
+        "trama": "Freddy Krueger, agendo nei sogni, ha massacrato tutti giovani di Springwood, tranne uno, John Doe, perchè gli serve per ritrovare il suo unico figlio dalla identità misteriosa. Contro Krueger si battono però due psicologi che suggeriranno il modo per liberarsi una volta per tutte della terribile creatura."
     },
     {
         "titolo": "Starship Troopers - Fanteria dello spazio",
         "anno": 1997,
         "front": "covers/starship.troopers.front.jpg",
         "back": "covers/starship.troopers.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/hf8fwP1ttYTFpP8xHr310j1yxsK.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/hf8fwP1ttYTFpP8xHr310j1yxsK.jpg",
+        "trama": "La terra è dominata da una dittatura militare che concede i pieni diritti civili soltanto a chi combatte. Il nemico è una stirpe di giganteschi e aggressivi scarafaggi che hanno come base il remoto pianeta Klendathu. Johnny Rico, giovane argentino, si arruola per amore di Carmen Ibanes, pilota di astronavi, ma dopo la distruzione di Buenos Aires e il massacro di 100 000 commilitoni aderisce alla causa per puro patriottismo."
     },
     {
         "titolo": "Terminator 3 - Le macchine ribelli",
         "anno": 2003,
         "front": "covers/terminator.3.front.jpg",
         "back": "covers/terminator.3.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/hLl1Kz6kWOnOID3r1m4qfF99A4k.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/hLl1Kz6kWOnOID3r1m4qfF99A4k.jpg",
+        "trama": "Sono passati dieci anni John Connor, ormai ventiduenne, è nuovamente in pericolo. La terminator femmina T-X, il più potente killer cyborg della Skynet, è stata programmata per ucciderlo. E non è l'unico bersaglio: l'ignara veterinaria Kate Brewster vedrà il suo passato scontrarsi con il presente. Per proteggerli viene incaricato e mandato nel passato il T-800..."
     },
     {
         "titolo": "Tromeo & Juliet",
         "anno": 1996,
         "front": "covers/tromeo.and.juliet.front.jpg",
         "back": "covers/tromeo.and.juliet.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/gBUQFzTjaYvnPRzXVsW6Y5mlTWd.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/gBUQFzTjaYvnPRzXVsW6Y5mlTWd.jpg",
+        "trama": "New York. Le famiglie dei Que e dei Capulet sono divise da un odio profondo che viene da lontano, da quando il capofamiglia dei Capulet truffò quello dei Que portandogli via anche la moglie. La giovane Georgie Capulet è assatanata e il fratello demente Sammy, spinto da pulsioni incestuose, cerca di cacciare chi se la vuole fare. Tromeo Que, ben inserito nel suo ambiente familiare deviato, è innamorato di Rosy…"
     },
     {
         "titolo": "Cliffhanger - L'ultima sfida",
         "anno": 1993,
         "front": "covers/cliffhanger.front.jpg",
         "back": "covers/cliffhanger.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/1EOWtxTmX3QY3OFn0YGKJORXmPu.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/1EOWtxTmX3QY3OFn0YGKJORXmPu.jpg",
+        "trama": "Impari ma vittoriosa lotta di un montanaro, membro di una squadra di soccorso, oppresso da un forte senso di colpa per la morte di una ragazza, contro una squadraccia di feroci rapinatori che ha preso in ostaggio la sua ragazza e un collega per recuperare tre valigie imbottite di denaro rubato. Data per scontata la sagra degli stereotipi, ci si può abbandonare al piacere della visione, dell'avventura, delle esibizioni acrobatiche, dei trucchi di questo film-giocattolo di cui la rilucente massa muscolare di S. Stallone è il vero contenuto. “Cliffhanger” significa qualcosa come “attaccato alla rupe”, ma è anche una parola di gergo per indicare un serial fatto di episodi con il finale in sospeso che si risolve solo nella puntata successiva, oppure film di azione avventurosa che coniuga la suspense con la vertigine."
     },
     {
         "titolo": "Corto circuito",
         "anno": 1986,
         "front": "covers/corto.circuito.front.jpg",
         "back": "covers/corto.circuito.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/5bWJvkkIjTb9dYOak1LUwlm0aaY.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/5bWJvkkIjTb9dYOak1LUwlm0aaY.jpg",
+        "trama": "Colpito da un fulmine durante una presentazione ufficiale dell'azienda NOVA Robotics, il robot \"Numero 5\" prende improvvisamente coscienza di sé e del suo essere vivo: farà amicizia con una ragazza ecologista e uno scienziato, tentando di sfuggire alla polizia e alle forze armate che lo ritengono erroneamente pericoloso per l'incolumità della popolazione."
     },
     {
         "titolo": "Creepshow",
         "anno": 1982,
         "front": "covers/creepshow.front.jpg",
         "back": "covers/creepshow.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/tueTGyokGGG6FawuMuEo3ef6JR7.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/tueTGyokGGG6FawuMuEo3ef6JR7.jpg",
+        "trama": "Ispirato dai fumetti E.C. del 1950, G.Romero e S. King portano sullo schermo 5 imperdibili novelle del terrore! La storia comincia con un padre, Stan, che rimprovera severamente il figlio, Billy, perché beccato a leggere un albo di Creepshow, una raccolta di storie dell'orrore a fumetti. Terminato il litigio, Stan getta il fumetto nella spazzatura ritirandosi poi in salotto, mentre Billy affranto prega i personaggi del fumetto di vendicare l'ingiustizia, che magicamente prendono vita accerchiando la casa. Una figura spettrale, lo \"Zio Creepy\", appare alla finestra della cameretta del bambino e facendogli cenno di avvicinarsi, comincia a narrare delle storie."
     },
     {
         "titolo": "Demolition Man",
         "anno": 1993,
         "front": "covers/demolition.man.front.jpg",
         "back": "covers/demolition.man.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/940kCZVkNlSDUzBCcJQq0EKgqbe.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/940kCZVkNlSDUzBCcJQq0EKgqbe.jpg",
+        "trama": "In una Los Angeles devastata dalla criminalità, un poliziotto violento si mette nei guai con un efferato malvivente. Entrambi vengono ibernati per subire un programma di rieducazione. Nel 2032 il criminale riesce a fuggire e semina morte in città. Giovane poliziotta fa allora scongelare anche il collega per farsi aiutare nella caccia. Esordio a Hollywood dell'italiano Brambilla con un film d'avventure non privo d'ironia (quando il protagonista si sveglia, scopre che il presidente USA è Schwarzenegger), ma imperniato soprattutto sullo spettacolo acrobatico e sulla suspense delle azioni. Credibile, poco; reazionario, molto."
     },
     {
         "titolo": "Dick Tracy",
         "anno": 1990,
         "front": "covers/dick.tracy.front.jpg",
         "back": "covers/dick.tracy.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/37p00b0lgRijRkkSOjdd0XSkUt4.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/37p00b0lgRijRkkSOjdd0XSkUt4.jpg",
+        "trama": "Il detective Dick Tracy scende in guerra contro il supercriminale Big Boy e la sua banda, ma succede qualcosa d'imprevisto: s'intromette un misterioso furfante senza volto, deciso a eliminarli entrambi, impadronendosi della città."
     },
     {
         "titolo": "L'esorcista",
         "anno": 1973,
         "front": "covers/esorcista.front.jpg",
         "back": "covers/esorcista.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/4k1HiCOyn5RwH1I5zHo7QMeuZSR.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/4k1HiCOyn5RwH1I5zHo7QMeuZSR.jpg",
+        "trama": "In un quartiere tranquillo, in una casa dotata di tutti i moderni comfort, una ragazzina modello cade ammalata. La madre non può aiutarla. I medici non riescono ad elaborare una diagnosi. Temendo che le crisi di cui soffre la figlia non riguardino solo la sfera fisica, ma anche quella spirituale, la donna si rivolge a un sacerdote. L'uomo però dubita della presenza del diavolo in quella casa, in quel corpo e la debolezza delle sue convinzioni non farà altro che rendere più forte il maligno."
     },
     {
         "titolo": "Flipper",
         "anno": 1996,
         "front": "covers/flipper.front.jpg",
         "back": "covers/flipper.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/kbsePEyGVpbf3R3vn7yLVnB2lTO.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/kbsePEyGVpbf3R3vn7yLVnB2lTO.jpg",
+        "trama": "Il piccolo Sandy, in vacanza in Florida con l'eccentrico zio Porter, diventa amico del delfino Flipper e di una sua coetanea. Con il loro aiuto riuscirà a scongiurare l'inquinamento della baia minacciato da un malvagio industriale."
     },
     {
         "titolo": "La casa di Cristina",
         "anno": 2000,
         "front": "covers/la.casa.di.cristina.front.jpg",
         "back": "covers/la.casa.di.cristina.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/o3MdOpOeZvExWQFxoU0JLWVf9tY.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/o3MdOpOeZvExWQFxoU0JLWVf9tY.jpg",
+        "trama": "L'adolescente Christina, il fratello minore Bobby, e il loro padre James Tarling si trasferiscono in una casa in affitto in una piccola città di Washington per essere vicini alla madre di Christina, Joanne, che è internata in un manicomio. La casa viene riparata da Howie Rhodes e Christina ha un ragazzo, il cattivo Eddy Duncan. Mentre è in casa, Christina sente dei rumori e ha la sensazione che un'altra persona viva lì, ma suo padre crede che sia stata risolta la struttura. Quando due adolescenti scompaiono, lo strano sceriffo Mark Sklar fa visita alla famiglia Tarling, dato che l'ultimo posto in cui gli adolescenti sono stati visti vivi si trovava nelle vicinanze della loro casa. Quando un cadavere viene trovato in un fiume vicino alla casa, lo sceriffo indaga sul luogo, cercando di trovare il colpevole per il crimine"
     },
     {
         "titolo": "Mamma, ho perso l'aereo",
         "anno": 1990,
         "front": "covers/mamma.ho.perso.aereo.front.jpg",
         "back": "covers/mamma.ho.perso.aereo.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/6XG37rotwNtaQ5sKBRFZILqIri0.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/6XG37rotwNtaQ5sKBRFZILqIri0.jpg",
+        "trama": "Nella fretta di prendere l'aereo diretto a Parigi dove vogliono passare le vacanze di Natale, i McCallister, una famiglia numerosa, dimenticano il piccolo Kevin a casa. Due malviventi cercano quindi di entrare nella villetta per fare razzia, ma sarà peggio per loro..."
     },
     {
         "titolo": "Non aprite quella porta IV",
         "anno": 1995,
         "front": "covers/non.aprite.quella.porta.4.front.jpg",
         "back": "covers/non.aprite.quella.porta.4.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/qtFyWuEQDBvg6hHMqgeJb0A6bnz.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/qtFyWuEQDBvg6hHMqgeJb0A6bnz.jpg",
+        "trama": "Un gruppo di teenager ha avuto un incidente automobilistico in mezzo ad una campagna Texas e si trova costretto a chiedere un passaggio alle poche vetture. Una donna si offre di condurli alla sua casa dove il marito avrebbe potuto accettare di aggiustargli la macchina. I ragazzi accettano ma non sanno che il marito della donna è Vilmer, il fratello del leggendario Faccia di cuoio."
     },
     {
         "titolo": "Over the Top",
         "anno": 1987,
         "front": "covers/over.the.top.front.jpg",
         "back": "covers/over.the.top.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/5JgpKhwrdfoBDjb1zi9F7aDNL0P.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/5JgpKhwrdfoBDjb1zi9F7aDNL0P.jpg",
+        "trama": "Camionista in disgrazia cerca di emergere ai campionati di braccio di ferro: deve procurarsi i soldi per comprare un camion nuovo e mantenere il figlioletto infinitamente caro."
     },
     {
         "titolo": "Pagemaster - L'avventura meravigliosa",
         "anno": 1994,
         "front": "covers/pagemasters.front.jpg",
         "back": "covers/pagemasters.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/tmwgSrvSRvVyILv5O6iUmXp81pv.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/tmwgSrvSRvVyILv5O6iUmXp81pv.jpg",
+        "trama": "Richard Tyler è un bambino cervellone di 10 anni, con la fobia di ogni cosa. I suoi genitori esasperati hanno provato di tutto per incoraggiare il figlio, che però affronta le cose reali della vita solo con statistiche e calcoli matematici. Un giorno il padre, che gli sta costruendo una casa sull'albero, lo manda in bici a comprare un pacchetto di chiodi dal ferramenta. Durante il tragitto però, scoppia un violento temporale e Richard è costretto a rifugiarsi, dopo che la sua bicicletta ha urtato per la pioggia contro una statua monumentale, in una biblioteca."
     },
     {
         "titolo": "Phenomena",
         "anno": 1985,
         "front": "covers/phenomena.front.jpg",
         "back": "covers/phenomena.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/p46q5T4fhuBNPFQFAfwG2niEoW6.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/p46q5T4fhuBNPFQFAfwG2niEoW6.jpg",
+        "trama": "Una giovane turista (Fiore Argento) perde contatto con la comitiva di cui fa parte in una valle svizzera e viene trucidata. Jennifer (Jennifer Connelly), una ragazzina americana, arriva in un collegio svizzero per completare i suoi studi e apprende strane storie di ragazzine scomparse nei paraggi. Jennifer soffre di sonnambulismo (da cui per la verità credeva di essere guarita) e vagando di notte viene a contatto con l’assassino, anche se non lo vede. Trova rifugio presso un entomologo, il professor John McGregor (Donald Pleasence), che, paralitico, è assistito da una scimmietta. Jennifer ha una strano rapporto di attrazione con gli insetti ed è infatti una lucciola a guidarla la notte seguente, durante un’altra crisi di sonnambulismo, sino al cadavere della sua compagna di stanza Sophie (Federica Mastroianni)."
     },
     {
         "titolo": "Poliziotto superpiù",
         "anno": 1980,
         "front": "covers/poliziotto.superpiu.front.jpg",
         "back": "covers/poliziotto.superpiu.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/fe27W5Io1BQzjEQ7EZImJRjOzdG.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/fe27W5Io1BQzjEQ7EZImJRjOzdG.jpg",
+        "trama": "Dave Speed (Terence Hill) è un agente di polizia in una cittadina americana. A causa dell'esposizione accidentale alle radiazioni provocate dall'esplosione di un missile acquista dei superpoteri come spostare gli oggetti col pensiero o prevedere i fatti che stanno per accadere, oltre all'indistruttibilità fisica. Tali superpoteri svaniscono però se guarda un qualsiasi oggetto di colore rosso. Tra lo scetticismo del collega più anziano e la diffidenza della fidanzata, non felicissima del cambiamento, cercherà di sgominare una banda di falsari."
     },
     {
         "titolo": "Sorvegliato speciale",
         "anno": 1989,
         "front": "covers/sorvegliato.speciale.front.jpg",
         "back": "covers/sorvegliato.speciale.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/eWNModkddyX33ZyX1E0bhgzyaMo.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/eWNModkddyX33ZyX1E0bhgzyaMo.jpg",
+        "trama": "Drumgoole è il direttore del carcere in cui è detenuto Frank Leone che è arrivato quasi al termine della pena. Drumgoole nutre un odio terribile per Leone che gli ha rovinato la carriera per una precedente evasione. Il funzionario aizza contro Leone i peggiori soggetti del penitenziario e fa ricorso ai metodi più barbari per indurrlo a tentare nuovamente la fuga e avere così il destro per ucciderlo."
     },
     {
         "titolo": "Tartarughe Ninja alla riscossa",
         "anno": 1990,
         "front": "covers/tartarughe.ninja.alla.riscossa.front.jpg",
         "back": "covers/tartarughe.ninja.alla.riscossa.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/7fA1Ya9gRmF8rTqCOvyyXznhEkM.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/7fA1Ya9gRmF8rTqCOvyyXznhEkM.jpg",
+        "trama": "Strani episodi criminali avvengono nella città di New York. Una giovane e coraggiosa giornalista viene salvata da quattro creature esperte in arti marziali. Si tratta di Michelangelo, Leonardo, Raffaello e Donatello, creature dotate di grande senso dell'umorismo e di un'enorme forza fisica, paladini della giustizia."
     },
     {
         "titolo": "Tesoro, mi si sono ristretti i ragazzi",
         "anno": 1989,
         "front": "covers/tesoro.mi.si.sono.ristretti.i.ragazzi.front.jpg",
         "back": "covers/tesoro.mi.si.sono.ristretti.i.ragazzi.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/oJXcWzO5R9EZvJ86P0y0hOegBnb.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/oJXcWzO5R9EZvJ86P0y0hOegBnb.jpg",
+        "trama": "Nella soffitta di casa, l'eccentrico Wayne Szalinski (Moranis) ha messo a punto un raggio che rimpicciolisce gli oggetti. Per un banale incidente, i suoi ragazzini Amy e Nick vengono miniaturizzati insieme con i due figlioletti dei vicini e devono affrontare i mille pericoli del giardino di casa: dalle aggressioni di insetti giganteschi, all'azione di micidiali motofalciatrici."
     },
     {
         "titolo": "Tremors",
         "anno": 1990,
         "front": "covers/tremors.front.jpg",
         "back": "covers/tremors.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/7nUKLTDqMfuaAlzHJFFaufElyCh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/7nUKLTDqMfuaAlzHJFFaufElyCh.jpg",
+        "trama": "A Perfection, una località del Nevada la terra si sussulta misteriosamente, mentre il deserto è attraversato a velocità spaventosa da gigantesche zolle di terreno. Sottoterra vivono giganteschi vermi dai tentacoli dentati, impazienti di uscire alla luce del sole, le loro scorribande sotterranee, però devastano il territorio in cui vivono Val McKee ed Earl Basset, che ingaggiano una lotta all'ultimo sangue con questi spaventosi mostri."
     },
     {
         "titolo": "Un minuto a mezzanotte",
         "anno": 1990,
         "front": "covers/un.minuto.a.mezzanotte.front.jpg",
         "back": "covers/un.minuto.a.mezzanotte.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/qhd8xJLtc2bcjj36dRObqQOyld9.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/qhd8xJLtc2bcjj36dRObqQOyld9.jpg",
+        "trama": "Thomas è un dodicenne patito di informatica e tecniche di sopravvivenza, lo sfarzoso castello di famiglia lo sconfinato teatro dei suoi giochi di guerra. La sera della Vigilia di Natale sua madre è costretta a restare al lavoro fino a tardi, e così il ragazzino decide di installare delle telecamere nelle varie ali della magione al fine riprendere l'agognato arrivo di Babbo Natale. Tuttavia, allo scoccare della mezzanotte, a introdursi dal camino è uno psicopatico in costume rosso e barba bianca, e per scampare alla sua follia Thomas dovrà ricorrere a ogni mezzo: armi giocattolo, trappole, nascondigli segreti e, soprattutto, la sua intelligenza straordinaria."
     },
     {
         "titolo": "Week-end di terrore",
         "anno": 1982,
         "front": "covers/venerdi.13.parte.3.front.jpg",
         "back": "covers/venerdi.13.parte.3.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/8a8YLCBNc6Va2r9wD3HzfbmcDpk.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/8a8YLCBNc6Va2r9wD3HzfbmcDpk.jpg",
+        "trama": "Una comitiva di ragazzi decide di trascorrere il weekend in una baita di campagna che, due anni prima, era stata teatro di una sanguinosa vicenda. Un maniaco con una maschera da portiere di hockey aveva assalito una ragazza e la padrona dell'abitazione. Costei credeva di averlo ucciso, ma il killer è ancora vivo e vaga nelle vicinanze. I componenti del gruppo di adolescenti vengono uccisi nei modi più impensati e più feroci così come un gruppo di malcapitati teppisti."
     },
     {
         "titolo": "Zombi",
         "anno": 1978,
         "front": "covers/zombi.front.jpg",
         "back": "covers/zombi.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/zxsOdPxsQOKDfD3ONjb04PhVLUu.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/zxsOdPxsQOKDfD3ONjb04PhVLUu.jpg",
+        "trama": "Negli Stati Uniti dilaga un'invasione di zombi, cadaverici redivivi dall'al di là, essere regrediti a uno stato di torpore animalesco, tesi alla ricerca di cibo (carne fresca dei viventi), deboli di forza e robusti di zanne, facili da abbattere, ma invulnerabili se non sono colpiti al cervello. Iniziata in medias res l'azione si svolge in gran parte all'interno di un supermercato Penney dove si barricano tre uomini e una donna."
     },
     {
         "titolo": "Corto circuito 2",
         "anno": 1988,
         "front": "covers/corto.circuito.2.front.jpg",
         "back": "covers/corto.circuito.2.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/eL24VPx4c2yoIITbHDXZtZxNP43.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/eL24VPx4c2yoIITbHDXZtZxNP43.jpg",
+        "trama": "Tenete i fili incrociati quando accenderete questo film ad alta tensione! Numero Cinque, il robot conosciuto anche come Johnny Cinque, è alla ricerca di qualche spassosa avventura cittadina. Ma la sua ingenuità lo fa cadere nelle mani di una gang di delinquenti che vogliono sfruttarlo a loro vantaggio. Riuscirà Johnny a sopravvire alla dura vita ed ai delinquenti della città?  Una spassosa avventura dell' incredibile e adorabile robot del film di grande successo CORTO CIRCUITO."
     },
     {
         "titolo": "La guerra del ferro - Ironmaster",
         "anno": 1983,
         "front": "covers/vindicator.la.guerra.del.ferro.front.jpg",
         "back": "covers/vindicator.la.guerra.del.ferro.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/tPvHrqLxI8aUhmhOOqMq1fuRIPz.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/tPvHrqLxI8aUhmhOOqMq1fuRIPz.jpg",
+        "trama": "In tempi preistorici, due tribù sono destinate a scontarsi. La prima, dall'aspetto semi-lebbroso, è di indole pacifica mentre la seconda è comandata dal tirannico Vood, ha sembianze scimmiesche e il megalomane progetto di conquistare il mondo."
     },
     {
         "titolo": "Il compagno Don Camillo",
         "anno": 1965,
         "front": "covers/compagno.don.camillo.front.jpg",
         "back": "covers/compagno.don.camillo.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/rBNEwPdjy8Ph8MDdYvaxlT1mlIN.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/rBNEwPdjy8Ph8MDdYvaxlT1mlIN.jpg",
+        "trama": "Peppone prepara i festeggiamenti per il gemellaggio di Brescello con una città russa. Don Camillo non gradisce, ma riesce a intrufolarsi e va in Russia. Quando poi decide di portare un gruppo di sacerdoti negli Stati Uniti d'America si trova di fronte uno “strano” monsignore."
     },
     {
         "titolo": "Ghostbusters (Acchiappafantasmi)",
         "anno": 1984,
         "front": "covers/ghostbusters.front.jpg",
         "back": "covers/ghostbusters.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/xsptkoJ8h2O8L7n970DKvISHt5K.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/xsptkoJ8h2O8L7n970DKvISHt5K.jpg",
+        "trama": "Peter Venkman, Raymond Stantz ed Egon Spengler sono tre ricercatori esperti di fenomeni paranormali espulsi dall'Università. Non resta loro che mettersi in proprio e fondare un'impresa specializzata come 'acchiappafantasmi'. La prima cliente è Dana Barrett che nel proprio appartamento di West Central Park è stata oggetto di visite terrificanti di cui non sa darsi una spiegazione. È solo l'inizio di un'avventura che porterà i ghostbusters a dover cercare di salvare la città da una minaccia che proviene dall'antichità."
     },
     {
         "titolo": "Ghostbusters II (Acchiappafantasmi II)",
         "anno": 1989,
         "front": "covers/ghostbusters.2.front.jpg",
         "back": "covers/ghostbusters.2.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/7GQQ398vED9GSEt8zu2zVaTEx3f.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/7GQQ398vED9GSEt8zu2zVaTEx3f.jpg",
+        "trama": "Sono passati quattro anni dalle prime avventure contro le presenze spettrali che incombono su New York e Raymond, Egon e Peter (stavolta con la collaborazione di Winston) devono tornare in campo con i loro marchingegni. Infatti i nostri eroi scoprono, proprio nelle viscere della Grande Mela, la provenienza della mefitica massa gelatinosa segno tangibile delle terribili presenze. Ma da dove proviene tanto male?"
     },
     {
         "titolo": "Perché quelle strane gocce di sangue sul corpo di Jennifer?",
         "anno": 1972,
         "front": "covers/gocce.corpo.jennifer.front.jpg",
         "back": "covers/gocce.corpo.jennifer.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/wlX5qaVWJJ4SHsKC89e0FWULBno.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/wlX5qaVWJJ4SHsKC89e0FWULBno.jpg",
+        "trama": "Marilyn e la sua amica Jennifer, entrambe fotomodelle, vanno a vivere in un palazzo nel quale, recentemente, sono state uccise due ragazze. La polizia segue un filone d'indagine che porta a sospettare dell'architetto Andrea Antinori, amico di Jennifer, ma lui non si fa trovare. Intanto, sempre nello stesso palazzo, Jennifer viene assalita dal vero assassino mentre si trova in compagnia di Sheena."
     },
     {
         "titolo": "L'orso",
         "anno": 1988,
         "front": "covers/orso.front.jpg",
         "back": "covers/orso.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/xS5blWAI9OoYi7P9QisaJfF0ehQ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/xS5blWAI9OoYi7P9QisaJfF0ehQ.jpg",
+        "trama": "Un cucciolo di orso orfano, e un maschio adulto cercano di sfuggire agli uomini"
     },
     {
         "titolo": "Scuola di polizia 2: Prima missione",
         "anno": 1985,
         "front": "covers/scuola.di.polizia.2.front.jpg",
         "back": "covers/scuola.di.polizia.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/gBBYz551ILrCptarzEmOfkZxtG2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/gBBYz551ILrCptarzEmOfkZxtG2.jpg",
+        "trama": "Una banda di teppisti imbratta la città e deruba i passanti. Il comandante della polizia chiede rinforzi e l'Accademia di polizia gli manda i suoi neo diplomati."
     },
     {
         "titolo": "Videodrome",
         "anno": 1983,
         "front": "covers/videodrome.front.jpg",
         "back": "covers/videodrome.back..jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/twlUmenWKB9EfUi3xA684m4solR.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/twlUmenWKB9EfUi3xA684m4solR.jpg",
+        "trama": "Max Renn (James Woods) è a capo di una piccola stazioncina televisiva specializzata in roba forte e cerca sempre di trovare roba ancora più forte e a poco prezzo per rimpolpare il palinsesto e vincere la graduale assuefazione del pubblico. Uno dei suoi impiegati, Harlan (Peter Dvorsky), riesce ad avere accesso a una stazione televisiva pirata chiamata Videodrome che trasmette film estremi di torture, mutilazioni e cose del genere. Molto interessato, Max vorrebbe quel materiale per la sua televisione e incarica Masha (Lynn Gorman), che abitualmente gli procura i filmati, di scoprire chi ne abbia la proprietà. Masha gli rivela che non si tratta di finzione: sono vere atrocità."
     },
     {
         "titolo": "Ehi... ci stai?",
         "anno": 1987,
         "front": "covers/ehi.ci.stai.front.jpg",
         "back": "covers/ehi.ci.stai.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/5QppE6Ye1q0wUzk84s5G88oLbJQ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/5QppE6Ye1q0wUzk84s5G88oLbJQ.jpg",
+        "trama": "Un allenatore di baseball s'innamora di una ragazza dalla vita familiare piuttosto disastrata (ha un padre alcolizzato e indebitato con un boss mafioso). Ma l'allenatore sistemerà tutto con il denaro di una grossa vincita al gioco."
     },
     {
         "titolo": "Regalo di Natale",
         "anno": 1986,
         "front": "covers/regalo.di.natale.front.jpg",
         "back": "covers/regalo.di.natale.back..jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/i2UDcAcNK9sXxt5e0kOFTQRGt7v.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/i2UDcAcNK9sXxt5e0kOFTQRGt7v.jpg",
+        "trama": "Nella notte di Natale quattro amici e un industrialotto, il pollo da spennare, si trovano per una partita di poker che sarà, in molti sensi, un regolamento di conti. Come si addice a una partita di poker, che è il fulcro del film, c'è suspense, ma vien fuori bene anche la conoscenza che il bolognese Avati ha della vita in provincia e del suo continuo peggioramento. Sua è l'orchestrazione sapiente di un quintetto di attori eterogenei che hanno le facce giuste."
     },
     {
         "titolo": "College",
         "anno": 1984,
         "front": "covers/college.front.jpg",
         "back": "covers/college.back.jpg",
-        "poster": "https://image.tmdb.org/t/p/w500/mquLY5qNL2yynesIVfqyGcKjHUh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w500/mquLY5qNL2yynesIVfqyGcKjHUh.jpg",
+        "trama": "Due scuole vicine tra loro: una è un'Accademia Navale piena di aitanti giovani vestiti di bianco e sempre ben educati, l'altra è un Collegio femminile abitato da signorine a modo. Tra incontri, scherzi, balli ed altro scoppierà l'amore tra i due protagonisti, Federica Moro e Christian Vadim (figlio del regista Roger). I due termineranno per convolare a giuste nozze non prima che lei abbia il tempo per voler mandare tutto a monte per aver visto il fidanzato con una bella signora, che alla fine si rivelerà essere la mamma del cadetto."
     }
 ]
