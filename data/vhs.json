@@ -344,5 +344,19 @@
         "front": "covers/ehi.ci.stai.front.jpg",
         "back": "covers/ehi.ci.stai.back.jpg",
         "poster": "https://image.tmdb.org/t/p/w500/5QppE6Ye1q0wUzk84s5G88oLbJQ.jpg"
+    },
+    {
+        "titolo": "Regalo di Natale",
+        "anno": 1986,
+        "front": "covers/regalo.di.natale.front.jpg",
+        "back": "covers/regalo.di.natale.back..jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/i2UDcAcNK9sXxt5e0kOFTQRGt7v.jpg"
+    },
+    {
+        "titolo": "College",
+        "anno": 1984,
+        "front": "covers/college.front.jpg",
+        "back": "covers/college.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/mquLY5qNL2yynesIVfqyGcKjHUh.jpg"
     }
 ]
