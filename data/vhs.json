@@ -288,5 +288,61 @@
         "front": "covers/vindicator.la.guerra.del.ferro.front.jpg",
         "back": "covers/vindicator.la.guerra.del.ferro.back.jpg",
         "poster": "https://image.tmdb.org/t/p/w500/tPvHrqLxI8aUhmhOOqMq1fuRIPz.jpg"
+    },
+    {
+        "titolo": "Il compagno Don Camillo",
+        "anno": 1965,
+        "front": "covers/compagno.don.camillo.front.jpg",
+        "back": "covers/compagno.don.camillo.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/rBNEwPdjy8Ph8MDdYvaxlT1mlIN.jpg"
+    },
+    {
+        "titolo": "Ghostbusters (Acchiappafantasmi)",
+        "anno": 1984,
+        "front": "covers/ghostbusters.front.jpg",
+        "back": "covers/ghostbusters.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/xsptkoJ8h2O8L7n970DKvISHt5K.jpg"
+    },
+    {
+        "titolo": "Ghostbusters II (Acchiappafantasmi II)",
+        "anno": 1989,
+        "front": "covers/ghostbusters.2.front.jpg",
+        "back": "covers/ghostbusters.2.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/7GQQ398vED9GSEt8zu2zVaTEx3f.jpg"
+    },
+    {
+        "titolo": "Perché quelle strane gocce di sangue sul corpo di Jennifer?",
+        "anno": 1972,
+        "front": "covers/gocce.corpo.jennifer.front.jpg",
+        "back": "covers/gocce.corpo.jennifer.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/wlX5qaVWJJ4SHsKC89e0FWULBno.jpg"
+    },
+    {
+        "titolo": "L'orso",
+        "anno": 1988,
+        "front": "covers/orso.front.jpg",
+        "back": "covers/orso.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/xS5blWAI9OoYi7P9QisaJfF0ehQ.jpg"
+    },
+    {
+        "titolo": "Scuola di polizia 2: Prima missione",
+        "anno": 1985,
+        "front": "covers/scuola.di.polizia.2.front.jpg",
+        "back": "covers/scuola.di.polizia.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/gBBYz551ILrCptarzEmOfkZxtG2.jpg"
+    },
+    {
+        "titolo": "Videodrome",
+        "anno": 1983,
+        "front": "covers/videodrome.front.jpg",
+        "back": "covers/videodrome.back..jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/twlUmenWKB9EfUi3xA684m4solR.jpg"
+    },
+    {
+        "titolo": "Ehi... ci stai?",
+        "anno": 1987,
+        "front": "covers/ehi.ci.stai.front.jpg",
+        "back": "covers/ehi.ci.stai.back.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/5QppE6Ye1q0wUzk84s5G88oLbJQ.jpg"
     }
 ]
