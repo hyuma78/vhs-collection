@@ -11,12 +11,16 @@ fetch('data/vhs.json')
     data.forEach(item => {
       const card = creaCard(item);
 
-      // CLIC sulla VHS → apre scheda info
-      card.addEventListener("click", () => apriScheda(item));
+      // LIVELLO CLICCABILE INVISIBILE
+      const clickLayer = document.createElement("div");
+      clickLayer.className = "click-layer";
+      clickLayer.addEventListener("click", () => apriScheda(item));
 
+      card.appendChild(clickLayer);
       grid.appendChild(card);
     });
-  });
+  })
+  .catch(err => console.error("Errore nel caricamento di vhs.json:", err));
 
 
 // === GENERA CARD ===
@@ -30,7 +34,7 @@ function creaCard(item) {
               <img src="${item.poster}" alt="${item.titolo}">
           </div>
           <div class="back">
-              <img src="${item.front}" alt="${item.titolo}">
+              <img src="${item.front}" alt="${item.titolo} - VHS">
           </div>
       </div>
   `;
@@ -57,10 +61,10 @@ function apriScheda(item) {
   infoAnno.textContent  = "Anno: " + item.anno;
   infoTrama.textContent = item.trama || "Nessuna trama disponibile";
 
-  // Immagine iniziale
+  // Immagine iniziale = fronte VHS
   infoImage.src = item.front;
 
-  // Pulsanti
+  // Pulsanti fronte/retro
   btnFront.onclick = () => { infoImage.src = item.front; };
   btnBack.onclick  = () => { infoImage.src = item.back;  };
 
