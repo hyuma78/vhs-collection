@@ -2,9 +2,10 @@
 <html lang="it">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Collezione VHS di Tommy</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Press+Start+2P&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -17,24 +18,36 @@
     <div class="grid" id="grid"></div>
 </section>
 
-<div id="infoBox" class="info-box hidden">
-    <button id="closeInfo" class="close-btn">✕</button>
-    
-    <h2 id="infoTitle"></h2>
-    <p id="infoAnno"></p>
-    <p id="infoTrama"></p>
+<div id="modalOverlay" class="modal-overlay hidden">
+    <div class="info-box">
+        <button id="closeInfo" class="close-btn">✕</button>
+        
+        <div class="modal-content">
+            <!-- Colonna sinistra: Galleria VHS -->
+            <div class="vhs-gallery">
+                <div class="vhs-main-image">
+                    <img id="mainImage" src="" alt="">
+                </div>
+                <div id="thumbnailsContainer" class="vhs-thumbnails">
+                    <!-- Thumbnails dinamiche -->
+                </div>
+            </div>
 
-    <div class="switch-buttons">
-        <button id="btnFront">Fronte VHS</button>
-        <button id="btnBack">Retro VHS</button>
-    </div>
-
-    <div class="info-image-container">
-        <img id="infoImage" src="" alt="">
+            <!-- Colonna destra: Info film -->
+            <div class="film-info">
+                <h2 id="infoTitle"></h2>
+                <div class="film-meta">
+                    <span id="infoAnno"></span>
+                </div>
+                <div>
+                    <span class="film-trama-label">📽️ Trama</span>
+                    <p id="infoTrama" class="film-trama"></p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
-<!-- ⬇️ script spostato QUI, dopo infoBox -->
 <script src="main.js"></script>
 
 </body>

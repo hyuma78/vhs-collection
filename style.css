@@ -1,12 +1,10 @@
 /* === SFONDO GENERALE ANNI '80 === */
-
 body {
     margin: 0;
     padding: 0;
     color: #fff;
     font-family: 'Orbitron', sans-serif;
-    background:
-        radial-gradient(circle at top, #6a00ff 0, #0a0014 50%, #000 100%);
+    background: radial-gradient(circle at top, #6a00ff 0, #0a0014 50%, #000 100%);
     min-height: 100vh;
     overflow-x: hidden;
     position: relative;
@@ -40,7 +38,6 @@ body::after {
 }
 
 /* === HEADER === */
-
 header {
     text-align: center;
     padding: 25px;
@@ -52,9 +49,7 @@ header {
     box-shadow: 0 0 25px #ff00ffaa;
 }
 
-
 /* === SEZIONE GRIGLIA === */
-
 #griglia {
     padding: 20px;
 }
@@ -65,9 +60,7 @@ header {
     text-shadow: 0 0 10px #ff00ff;
 }
 
-
 /* === GRIGLIA VHS === */
-
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
@@ -75,148 +68,261 @@ header {
     padding: 10px 20px 40px;
 }
 
-
-/* === CARD VHS 3D === */
-
+/* === CARD VHS - HOVER SEMPLICE === */
 .card {
     width: 180px;
     height: 280px;
     margin: 0 auto;
-    perspective: 1000px;
+    cursor: pointer;
     position: relative;
+    transition: transform 0.3s ease;
 }
 
-.inner {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    transition: transform .6s;
-    transform-style: preserve-3d;
+.card:hover {
+    transform: translateY(-10px) scale(1.05);
 }
 
-.card:hover .inner {
-    transform: rotateY(180deg);
-}
-
-.front, .back {
-    position: absolute;
+.card-image {
     width: 100%;
     height: 100%;
     border: 2px solid #ff00e0;
     background: #000;
-    backface-visibility: hidden;
     box-shadow: 0 0 15px #ff00e080;
+    transition: box-shadow 0.3s ease;
 }
 
-.front img, .back img {
+.card:hover .card-image {
+    box-shadow: 0 0 30px #ff00e0dd, 0 0 50px #ff00e088;
+}
+
+.card-image img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    display: block;
 }
-
-.back {
-    transform: rotateY(180deg);
-}
-
-/* Layer invisibile per il click */
-.click-layer {
-    position: absolute;
-    inset: 0;
-    z-index: 1000;
-    background: transparent;
-    cursor: pointer;
-}
-
 
 /* ============================================================
-        POPUP / SCHEDA FILM — NUOVA VERSIONE DEFINITIVA
+        MODAL / SCHEDA FILM — LAYOUT MODERNO
    ============================================================ */
 
-.info-box {
+.modal-overlay {
     position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 90%;
-    max-width: 600px;
-    max-height: 80vh;
-    overflow-y: auto;
-    background: #120026;
-    border: 2px solid #ff00ee;
-    box-shadow: 0 0 25px #ff00eeaa;
-    padding: 20px 20px 30px;
-    z-index: 999999;
-    color: white;
-    border-radius: 10px;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.85);
+    backdrop-filter: blur(5px);
+    z-index: 999998;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
 }
 
-.info-box.hidden {
+.modal-overlay.hidden {
     display: none;
+}
+
+.info-box {
+    background: linear-gradient(135deg, #1a0033 0%, #0d001a 100%);
+    border: 3px solid #ff00ee;
+    box-shadow: 0 0 40px #ff00eeaa, inset 0 0 20px rgba(255, 0, 238, 0.1);
+    border-radius: 16px;
+    max-width: 900px;
+    width: 100%;
+    max-height: 90vh;
+    overflow-y: auto;
+    position: relative;
+    animation: modalSlideIn 0.3s ease;
+}
+
+@keyframes modalSlideIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9) translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+    }
 }
 
 /* Pulsante X */
 .close-btn {
-    position: sticky;
-    top: 0;
-    float: right;
-    background: transparent;
-    border: none;
-    font-size: 26px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: rgba(255, 0, 238, 0.2);
+    border: 2px solid #ff00ee;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 24px;
     cursor: pointer;
     color: #ff00ee;
-    text-shadow: 0 0 8px #ff00ee;
-    margin-bottom: 10px;
-}
-
-/* Titolo e testo */
-.info-box h2 {
-    font-family: 'Press Start 2P';
-    font-size: 18px;
-    text-shadow: 0 0 10px #ff00ee;
-}
-
-.info-box p {
-    font-size: 15px;
-    line-height: 1.5;
-    margin: 10px 0;
-    font-family: 'Orbitron', sans-serif;
-}
-
-/* Pulsanti fronte/retro */
-.switch-buttons {
-    margin: 15px 0;
     display: flex;
+    align-items: center;
     justify-content: center;
-    gap: 15px;
+    transition: all 0.3s ease;
+    z-index: 10;
 }
 
-.switch-buttons button {
+.close-btn:hover {
     background: #ff00ee;
-    border: none;
-    padding: 8px 14px;
-    font-size: 13px;
-    font-family: 'Orbitron', sans-serif;
-    cursor: pointer;
-    border-radius: 6px;
-    box-shadow: 0 0 10px #ff00eeaa;
+    color: #fff;
+    box-shadow: 0 0 20px #ff00ee;
+    transform: rotate(90deg);
 }
 
-.switch-buttons button:hover {
-    background: #00e7ff;
-    box-shadow: 0 0 12px #00e7ffaa;
+/* Layout contenuto modal */
+.modal-content {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    gap: 30px;
+    padding: 30px;
 }
 
-/* Immagine VHS nel popup */
-.info-image-container {
+/* Colonna sinistra - Immagini VHS */
+.vhs-gallery {
     display: flex;
-    justify-content: center;
-    margin-top: 10px;
+    flex-direction: column;
+    gap: 20px;
 }
 
-.info-image-container img {
-    width: 80%;
-    border: 2px solid #ff00ee;
-    box-shadow: 0 0 20px #ff00eeaa;
+.vhs-main-image {
+    width: 100%;
+    border: 3px solid #ff00ee;
+    box-shadow: 0 0 25px #ff00eeaa;
     background: black;
-    border-radius: 4px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.vhs-main-image img {
+    width: 100%;
+    display: block;
+    transition: opacity 0.3s ease;
+}
+
+/* Thumbnails */
+.vhs-thumbnails {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.vhs-thumb {
+    width: 80px;
+    height: 80px;
+    border: 2px solid #ff00ee88;
+    border-radius: 6px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    background: #000;
+}
+
+.vhs-thumb:hover,
+.vhs-thumb.active {
+    border-color: #00e7ff;
+    box-shadow: 0 0 15px #00e7ff;
+    transform: scale(1.1);
+}
+
+.vhs-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.vhs-thumb-label {
+    text-align: center;
+    font-size: 10px;
+    color: #ff00ee;
+    margin-top: 5px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+/* Colonna destra - Info film */
+.film-info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.film-info h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 22px;
+    color: #ff00ee;
+    text-shadow: 0 0 15px #ff00ee;
+    margin: 0;
+    line-height: 1.4;
+}
+
+.film-meta {
+    display: flex;
+    gap: 20px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 14px;
+    color: #00e7ff;
+}
+
+.film-meta span {
+    background: rgba(0, 231, 255, 0.1);
+    padding: 5px 12px;
+    border-radius: 20px;
+    border: 1px solid #00e7ff44;
+}
+
+.film-trama {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #e0e0e0;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.film-trama-label {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 14px;
+    color: #ff00ee;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+/* Scrollbar personalizzata */
+.info-box::-webkit-scrollbar {
+    width: 10px;
+}
+
+.info-box::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+.info-box::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #ff00ee, #00e7ff);
+    border-radius: 10px;
+}
+
+.info-box::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(180deg, #00e7ff, #ff00ee);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .modal-content {
+        grid-template-columns: 1fr;
+    }
+
+    .film-info h2 {
+        font-size: 16px;
+    }
+
+    .film-trama {
+        font-size: 14px;
+    }
 }
