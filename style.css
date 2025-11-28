@@ -293,6 +293,30 @@ header {
     display: block;
 }
 
+.modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    margin-bottom: 10px;
+}
+
+/* Titolo molto lungo: va a capo senza invadere */
+.vhs-title {
+    flex: 1;
+    margin: 0;
+    word-wrap: break-word;
+    word-break: break-word;
+}
+
+/* X sempre in alto a destra */
+.close-modal {
+    flex-shrink: 0;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+
 /* Scrollbar personalizzata */
 .info-box::-webkit-scrollbar {
     width: 10px;
