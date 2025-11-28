@@ -257,7 +257,7 @@ header {
     text-shadow: 0 0 15px #ff00ee;
     margin: 0;
     line-height: 1.4;
-    padding-right: 20px; /* Lascia spazio per il pulsante X (40px) + margine */
+    padding-right: 30px; /* Lascia spazio per il pulsante X (40px) + margine */
     word-break: break-word; /* Forse non serve, ma è una buona pratica per i titoli lunghi */
     box-sizing: border-box; /* Assicura che il padding sia incluso nella larghezza totale */
 }
